@@ -1,0 +1,3 @@
+discord.py-self==2.0.0
+colorama==0.4.6
+asyncio==3.4.3
